@@ -1,8 +1,0 @@
-E:\IEJNC\blazor\githubsamples\New folder\EJ2-DataGrid-Blazor-RemoteSaveAdaptor-CRUD\RemoteSaveAdaptor\RemoteSaveAdaptor\RemoteSaveAdaptor.Shared\bin\Debug\netstandard2.0\RemoteSaveAdaptor.Shared.deps.json
-E:\IEJNC\blazor\githubsamples\New folder\EJ2-DataGrid-Blazor-RemoteSaveAdaptor-CRUD\RemoteSaveAdaptor\RemoteSaveAdaptor\RemoteSaveAdaptor.Shared\bin\Debug\netstandard2.0\RemoteSaveAdaptor.Shared.dll
-E:\IEJNC\blazor\githubsamples\New folder\EJ2-DataGrid-Blazor-RemoteSaveAdaptor-CRUD\RemoteSaveAdaptor\RemoteSaveAdaptor\RemoteSaveAdaptor.Shared\bin\Debug\netstandard2.0\RemoteSaveAdaptor.Shared.pdb
-E:\IEJNC\blazor\githubsamples\New folder\EJ2-DataGrid-Blazor-RemoteSaveAdaptor-CRUD\RemoteSaveAdaptor\RemoteSaveAdaptor\RemoteSaveAdaptor.Shared\obj\Debug\netstandard2.0\RemoteSaveAdaptor.Shared.AssemblyInfoInputs.cache
-E:\IEJNC\blazor\githubsamples\New folder\EJ2-DataGrid-Blazor-RemoteSaveAdaptor-CRUD\RemoteSaveAdaptor\RemoteSaveAdaptor\RemoteSaveAdaptor.Shared\obj\Debug\netstandard2.0\RemoteSaveAdaptor.Shared.AssemblyInfo.cs
-E:\IEJNC\blazor\githubsamples\New folder\EJ2-DataGrid-Blazor-RemoteSaveAdaptor-CRUD\RemoteSaveAdaptor\RemoteSaveAdaptor\RemoteSaveAdaptor.Shared\obj\Debug\netstandard2.0\RemoteSaveAdaptor.Shared.dll
-E:\IEJNC\blazor\githubsamples\New folder\EJ2-DataGrid-Blazor-RemoteSaveAdaptor-CRUD\RemoteSaveAdaptor\RemoteSaveAdaptor\RemoteSaveAdaptor.Shared\obj\Debug\netstandard2.0\RemoteSaveAdaptor.Shared.pdb
-E:\IEJNC\blazor\githubsamples\New folder\EJ2-DataGrid-Blazor-RemoteSaveAdaptor-CRUD\RemoteSaveAdaptor\RemoteSaveAdaptor\RemoteSaveAdaptor.Shared\obj\Debug\netstandard2.0\RemoteSaveAdaptor.Shared.csprojAssemblyReference.cache
