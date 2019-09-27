@@ -1,0 +1,44 @@
+E:\IEJNC\blazor\githubsamples\New folder\EJ2-DataGrid-Blazor-RemoteSaveAdaptor-CRUD\RemoteSaveAdaptor\RemoteSaveAdaptor\RemoteSaveAdaptor.Client\obj\Debug\netstandard2.0\RemoteSaveAdaptor.Client.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\syncfusion.ej2.blazor\17.3.0.10-beta\lib\netstandard2.0\Syncfusion.EJ2.Blazor.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\system.text.json\4.6.0-preview9.19421.4\lib\netstandard2.0\System.Text.Json.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.aspnetcore.blazor.mono\3.0.0-preview9.19421.1\build\netstandard1.0\../../tools/mono/bcl/System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.aspnetcore.blazor.mono\3.0.0-preview9.19421.1\build\netstandard1.0\../../tools/mono/bcl/mscorlib.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.aspnetcore.blazor.mono\3.0.0-preview9.19421.1\build\netstandard1.0\../../tools/mono/bcl/Facades/System.Buffers.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.bcl.asyncinterfaces\1.0.0-preview9.19421.4\lib\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.aspnetcore.blazor.mono\3.0.0-preview9.19421.1\build\netstandard1.0\../../tools/mono/bcl/Facades/System.Threading.Tasks.Extensions.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.aspnetcore.blazor.mono\3.0.0-preview9.19421.1\build\netstandard1.0\../../tools/mono/bcl/Facades/netstandard.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.aspnetcore.blazor.mono\3.0.0-preview9.19421.1\build\netstandard1.0\../../tools/mono/bcl/System.Xml.Linq.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.aspnetcore.blazor.mono\3.0.0-preview9.19421.1\build\netstandard1.0\../../tools/mono/bcl/System.Core.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.aspnetcore.blazor.mono\3.0.0-preview9.19421.1\build\netstandard1.0\../../tools/mono/bcl/System.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.aspnetcore.blazor.mono\3.0.0-preview9.19421.1\build\netstandard1.0\../../tools/mono/bcl/System.Numerics.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.aspnetcore.blazor.mono\3.0.0-preview9.19421.1\build\netstandard1.0\../../tools/mono/bcl/System.Xml.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.aspnetcore.blazor.mono\3.0.0-preview9.19421.1\build\netstandard1.0\../../tools/mono/bcl/Mono.Security.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.aspnetcore.blazor.mono\3.0.0-preview9.19421.1\build\netstandard1.0\../../tools/mono/bcl/System.Transactions.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.aspnetcore.blazor.mono\3.0.0-preview9.19421.1\build\netstandard1.0\../../tools/mono/bcl/System.Runtime.Serialization.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.aspnetcore.blazor.mono\3.0.0-preview9.19421.1\build\netstandard1.0\../../tools/mono/bcl/System.ServiceModel.Internals.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.aspnetcore.blazor.mono\3.0.0-preview9.19421.1\build\netstandard1.0\../../tools/mono/bcl/System.Net.Http.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.aspnetcore.blazor.mono\3.0.0-preview9.19421.1\build\netstandard1.0\../../tools/mono/bcl/System.ComponentModel.Composition.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.aspnetcore.blazor.mono\3.0.0-preview9.19421.1\build\netstandard1.0\../../tools/mono/bcl/System.IO.Compression.FileSystem.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.aspnetcore.blazor.mono\3.0.0-preview9.19421.1\build\netstandard1.0\../../tools/mono/bcl/System.IO.Compression.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.aspnetcore.blazor.mono\3.0.0-preview9.19421.1\build\netstandard1.0\../../tools/mono/bcl/Facades/System.Drawing.Common.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.aspnetcore.blazor.mono\3.0.0-preview9.19421.1\build\netstandard1.0\../../tools/mono/bcl/System.Data.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.aspnetcore.blazor.mono\3.0.0-preview9.19421.1\build\netstandard1.0\../../tools/mono/bcl/System.Numerics.Vectors.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\system.text.encodings.web\4.6.0-preview9.19421.4\lib\netstandard2.0\System.Text.Encodings.Web.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.aspnetcore.blazor.mono\3.0.0-preview9.19421.1\build\netstandard1.0\../../tools/mono/bcl/Facades/System.Memory.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.aspnetcore.components.web\3.0.0-preview9.19424.4\lib\netstandard2.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.aspnetcore.components.forms\3.0.0-preview9.19424.4\lib\netstandard2.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.aspnetcore.blazor.mono\3.0.0-preview9.19421.1\build\netstandard1.0\../../tools/mono/bcl/Facades/System.ComponentModel.Annotations.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.aspnetcore.blazor.mono\3.0.0-preview9.19421.1\build\netstandard1.0\../../tools/mono/bcl/System.ComponentModel.DataAnnotations.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.aspnetcore.components\3.0.0-preview9.19424.4\lib\netstandard2.0\Microsoft.AspNetCore.Components.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.extensions.logging.abstractions\3.0.0-preview9.19423.4\lib\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\3.0.0-preview9.19423.4\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\newtonsoft.json\12.0.2\lib\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.jsinterop\3.0.0-preview9.19423.4\lib\netstandard2.0\Microsoft.JSInterop.dll
+E:\IEJNC\blazor\githubsamples\New folder\EJ2-DataGrid-Blazor-RemoteSaveAdaptor-CRUD\RemoteSaveAdaptor\RemoteSaveAdaptor\RemoteSaveAdaptor.Shared\bin\Debug\netstandard2.0\RemoteSaveAdaptor.Shared.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.aspnetcore.blazor\3.0.0-preview9.19424.4\lib\netstandard2.0\Microsoft.AspNetCore.Blazor.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.extensions.options\3.0.0-preview9.19423.4\lib\netstandard2.0\Microsoft.Extensions.Options.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.extensions.primitives\3.0.0-preview9.19423.4\lib\netstandard2.0\Microsoft.Extensions.Primitives.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\microsoft.extensions.dependencyinjection\3.0.0-preview9.19423.4\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\RenjithSinghRajendra\.nuget\packages\mono.webassembly.interop\3.0.0-preview9.19423.4\lib\netstandard2.0\Mono.WebAssembly.Interop.dll
+E:\IEJNC\blazor\githubsamples\New folder\EJ2-DataGrid-Blazor-RemoteSaveAdaptor-CRUD\RemoteSaveAdaptor\RemoteSaveAdaptor\RemoteSaveAdaptor.Client\obj\Debug\netstandard2.0\RemoteSaveAdaptor.Client.pdb
+E:\IEJNC\blazor\githubsamples\New folder\EJ2-DataGrid-Blazor-RemoteSaveAdaptor-CRUD\RemoteSaveAdaptor\RemoteSaveAdaptor\RemoteSaveAdaptor.Shared\bin\Debug\netstandard2.0\RemoteSaveAdaptor.Shared.pdb
