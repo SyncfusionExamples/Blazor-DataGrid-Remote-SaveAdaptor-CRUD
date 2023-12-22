@@ -2,7 +2,7 @@
 
 @using RemoteSaveAdaptor.Shared
 
-<SfGrid TValue="OrdersDetails" AllowPaging="true" Toolbar="@(new List<string>() { "Add", "Edit", "Delete", "Update", "Cancel" })">
+<SfGrid TValue="OrdersDetails" AllowPaging="true" Toolbar="@(new List<string>() { "Add", "Edit", "Delete", "Update", "Cancel" })" AllowFiltering="true" AllowSorting="true">
     <GridEditSettings AllowAdding="true" AllowDeleting="true" AllowEditing="true" Mode="EditMode.Normal"></GridEditSettings>
     <SfDataManager Json="@Data" InsertUrl="/api/Default/Insert" RemoveUrl="/api/Default/Delete" UpdateUrl="/api/Default/Update" Adaptor="Adaptors.RemoteSaveAdaptor"></SfDataManager>
     <GridColumns>
