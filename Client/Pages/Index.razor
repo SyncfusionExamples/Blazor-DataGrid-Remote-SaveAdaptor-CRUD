@@ -1,0 +1,22 @@
+﻿@page "/"
+
+@using RemoteSaveAdaptor.Shared
+
+<SfGrid TValue="OrdersDetails" AllowPaging="true" Toolbar="@(new List<string>() { "Add", "Edit", "Delete", "Update", "Cancel" })" AllowFiltering="true" AllowSorting="true">
+    <GridEditSettings AllowAdding="true" AllowDeleting="true" AllowEditing="true" Mode="EditMode.Normal"></GridEditSettings>
+    <SfDataManager Json="@Data" InsertUrl="/api/Default/Insert" RemoveUrl="/api/Default/Delete" UpdateUrl="/api/Default/Update" Adaptor="Adaptors.RemoteSaveAdaptor"></SfDataManager>
+    <GridColumns>
+        <GridColumn Field=@nameof(OrdersDetails.OrderID) HeaderText="Order ID" IsPrimaryKey="true" TextAlign="TextAlign.Right" Width="120"></GridColumn>
+        <GridColumn Field=@nameof(OrdersDetails.CustomerID) HeaderText="Customer Name" Width="150"></GridColumn>
+        <GridColumn Field=@nameof(OrdersDetails.OrderDate) HeaderText=" Order Date" Format="yMd" Type="ColumnType.Date" TextAlign="TextAlign.Right" Width="130"></GridColumn>
+        <GridColumn Field=@nameof(OrdersDetails.Freight) HeaderText="Freight" Format="C2" TextAlign="TextAlign.Right" Width="120"></GridColumn>
+    </GridColumns>
+</SfGrid>
+
+@code{
+    public OrdersDetails[] Data { get; set; }
+    protected override void OnInitialized()
+    {
+        Data = OrdersDetails.GetAllRecords().ToArray();
+    }
+}

@@ -6,8 +6,6 @@ You may need to perform all Grid Actions (like paging, filtering, sorting) in cl
 
 Datasource must be set to **json** property and set **RemoteSaveAdaptor** to the **adaptor** property. CRUD operations can be mapped to server-side using **insertUrl**, **updateUrl**, **removeUrl** properties.
 
-> This sample is created in **.NET Core 3.0 Preview 8**.
-
 ## Prerequisites
 
 * Visual Studio 2022
